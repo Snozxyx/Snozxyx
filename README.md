@@ -28,14 +28,14 @@
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://streak-stats.demolab.com/?user=Snozxyx&theme=react&border=61dafb&hide_border=true" alt="Snozxyx" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://readme-a9yd2eaxy-snozxyxs-projects.vercel.app/api?username=Snozxyx&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/snozxyx" title="Go to Source">
+      <img align="right" width=396 src="https://readme-rosy-sigma.vercel.app/api?username=Snozxyx&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://readme-a9yd2eaxy-snozxyxs-projects.vercel.app/api/top-langs/?username=Snozxyx&hide=c%23,powershell&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/snozxyx">
+      <img width=325 align="center" src="https://readme-rosy-sigma.vercel.app/api/top-langs/?username=Snozxyx&hide=c%23,powershell&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
