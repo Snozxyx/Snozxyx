@@ -29,7 +29,7 @@
       <img align="left" width=396 src="https://streak-stats.demolab.com/?user=snozxyx&theme=dark&hide_border=false" alt="Snozxyx" />
     </a>
     <a href="https://github.com/snozxyx" title="Go to Source">
-      <img align="right" width=396 src="[https://readme-rosy-sigma.vercel.app/api?username=Snozxyx&show_icons=true&theme=react&border_color=61dafb&hide_border=true](https://streak-stats.demolab.com/?user=snozxyx&theme=dark&hide_border=false)" />
+      <img align="right" width=396 src="https://streak-stats.demolab.com/?user=snozxyx&theme=dark&hide_border=false" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
