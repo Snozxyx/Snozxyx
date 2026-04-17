@@ -26,7 +26,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://streak-stats.demolab.com/?user=snozxyx&theme=dark&hide_border=false" alt="Snozxyx" />
+      <img align="left" width=396 src="https://github-readme-stats.shion.dev/api?username=snozxyx&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Snozxyx" />
     </a>
     <a href="https://github.com/snozxyx" title="Go to Source">
       <img align="right" width=396 src="https://streak-stats.demolab.com/?user=snozxyx&theme=dark&hide_border=false" />
